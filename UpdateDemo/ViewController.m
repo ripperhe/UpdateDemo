@@ -21,7 +21,9 @@
 
     NSString *version = [[[NSBundle mainBundle] infoDictionary] objectForKey:@"CFBundleShortVersionString"];
     self.versionLabel.stringValue = version;
-    
+
+    NSString *documentsDirectory = NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES).firstObject;
+    NSLog(@"document directory path : \n%@", documentsDirectory);
 }
 
 
