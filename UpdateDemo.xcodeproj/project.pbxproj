@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		917B359D2636D32AF3870245 /* Pods_UpdateDemo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4CC9B22A37991E9327844CA4 /* Pods_UpdateDemo.framework */; };
+		C9A9366223AD01E000E01884 /* appcast.xml in Resources */ = {isa = PBXBuildFile; fileRef = C9A9366123AD01E000E01884 /* appcast.xml */; };
 		C9B5188523ACC69200322893 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C9B5188423ACC69200322893 /* AppDelegate.m */; };
 		C9B5188823ACC69200322893 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C9B5188723ACC69200322893 /* ViewController.m */; };
 		C9B5188A23ACC69400322893 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C9B5188923ACC69400322893 /* Assets.xcassets */; };
@@ -19,6 +20,7 @@
 		4CC9B22A37991E9327844CA4 /* Pods_UpdateDemo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_UpdateDemo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5816B6B0EB56A065D0ED19DE /* Pods-UpdateDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-UpdateDemo.release.xcconfig"; path = "Target Support Files/Pods-UpdateDemo/Pods-UpdateDemo.release.xcconfig"; sourceTree = "<group>"; };
 		B914D9331382095B9FF50264 /* Pods-UpdateDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-UpdateDemo.debug.xcconfig"; path = "Target Support Files/Pods-UpdateDemo/Pods-UpdateDemo.debug.xcconfig"; sourceTree = "<group>"; };
+		C9A9366123AD01E000E01884 /* appcast.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = appcast.xml; sourceTree = "<group>"; };
 		C9B5188023ACC69200322893 /* UpdateDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UpdateDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C9B5188323ACC69200322893 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		C9B5188423ACC69200322893 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -55,6 +57,7 @@
 		C9B5187723ACC69200322893 = {
 			isa = PBXGroup;
 			children = (
+				C9A9366123AD01E000E01884 /* appcast.xml */,
 				C9B5188223ACC69200322893 /* UpdateDemo */,
 				C9B5188123ACC69200322893 /* Products */,
 				29F1E0A74072F2B79C02C6BC /* Pods */,
@@ -155,6 +158,7 @@
 			files = (
 				C9B5188A23ACC69400322893 /* Assets.xcassets in Resources */,
 				C9B5188D23ACC69400322893 /* Main.storyboard in Resources */,
+				C9A9366223AD01E000E01884 /* appcast.xml in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
