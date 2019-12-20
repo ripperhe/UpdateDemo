@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -49,7 +49,6 @@
 				B914D9331382095B9FF50264 /* Pods-UpdateDemo.debug.xcconfig */,
 				5816B6B0EB56A065D0ED19DE /* Pods-UpdateDemo.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -350,6 +349,7 @@
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
+				MARKETING_VERSION = 1.0.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.ripperhe.UpdateDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -368,6 +368,7 @@
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
+				MARKETING_VERSION = 1.0.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.ripperhe.UpdateDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
