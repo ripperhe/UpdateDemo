@@ -11,14 +11,14 @@
             <title>v1.1.0</title>
             <description>1.1.0版本的描述.</description>
             <pubDate>Thur, 11 Apr 2019 19:59:11 +0000</pubDate>
-            <enclosure url="https://github.com/ripperhe/UpdateDemo/releases/download/1.1.0/UpdateDemo.app.1.1.0.zip" sparkle:shortVersionString="1.1.0" sparkle:version="1" type="application/octet-stream" sparkle:edSignature="WgpUfQreI4xyxzrMxmaxUOdQIWbQWykOBt17jbnWuqUBfK++u/9rTKc8+h5t3BRPiiHyLlYLT2DRTskw4Je5Bw==" length="1773152" />
+            <enclosure url="https://github.com/ripperhe/UpdateDemo/releases/download/1.1.0/UpdateDemo.app.1.1.0.zip" sparkle:shortVersionString="1.1.0" sparkle:version="2" type="application/octet-stream" sparkle:edSignature="WgpUfQreI4xyxzrMxmaxUOdQIWbQWykOBt17jbnWuqUBfK++u/9rTKc8+h5t3BRPiiHyLlYLT2DRTskw4Je5Bw==" length="1773152" />
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
         </item>
         <item>
             <title>v1.0.0</title>
             <description>1.0.0版本的描述.</description>
             <pubDate>Wed, 10 Apr 2019 19:58:11 +0000</pubDate>
-            <enclosure url="https://github.com/ripperhe/UpdateDemo/releases/download/1.0.0/UpdateDemo.app.1.0.0.zip" sparkle:shortVersionString="1.0.0" sparkle:version="2" type="application/octet-stream" sparkle:edSignature="DUryjPLDcZ20g29ABfpiQvDm6KnT3ICRI65RfF7jZgj/UGFKBeopXRKPC3I69woN+k07CP2IgTzmpJ8YsURTBA==" length="1773147" />
+            <enclosure url="https://github.com/ripperhe/UpdateDemo/releases/download/1.0.0/UpdateDemo.app.1.0.0.zip" sparkle:shortVersionString="1.0.0" sparkle:version="1" type="application/octet-stream" sparkle:edSignature="DUryjPLDcZ20g29ABfpiQvDm6KnT3ICRI65RfF7jZgj/UGFKBeopXRKPC3I69woN+k07CP2IgTzmpJ8YsURTBA==" length="1773147" />
             <sparkle:minimumSystemVersion>10.12</sparkle:minimumSystemVersion>
         </item>
     </channel>
