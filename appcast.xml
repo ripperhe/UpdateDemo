@@ -4,15 +4,15 @@
         <title>UpdateDemo</title>
         <item>
             <title>1.1.0</title>
-            <pubDate>周六, 21 12月 2019 14:03:34 +0800</pubDate>
+            <pubDate>周六, 21 12月 2019 14:54:31 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ripperhe/UpdateDemo/releases/download/1.1.0/UpdateDemo1.1.0.zip" sparkle:version="1.1.0" sparkle:shortVersionString="1.1.0" length="1774381" type="application/octet-stream" sparkle:edSignature="wk/LLwr34/z2kNV+i6LIKZvT/JIA7Ru6YTxwXyVLshwDMIzit3dtjJXCMOBh3RUcPeV2yupVObISsD3hDIX6BQ=="/>
+            <enclosure url="https://github.com/ripperhe/UpdateDemo/releases/download/1.1.0/UpdateDemo1.1.0.zip" sparkle:version="1.1.0" sparkle:shortVersionString="1.1.0" length="1774190" type="application/octet-stream" sparkle:edSignature="wn+4Mbkrnxw6LVrMXkN7BricfwnefyDKOl19HbMGU867SukSOJ/mWaHS1xGYjKDwk2wtThgaBCDQQwGRT6vmCw=="/>
         </item>
         <item>
             <title>1.0.0</title>
-            <pubDate>周六, 21 12月 2019 14:02:00 +0800</pubDate>
+            <pubDate>周六, 21 12月 2019 14:54:11 +0800</pubDate>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ripperhe/UpdateDemo/releases/download/1.0.0/UpdateDemo1.0.0.zip" sparkle:version="1.0.0" sparkle:shortVersionString="1.0.0" length="1774389" type="application/octet-stream" sparkle:edSignature="U9Gg+LgaOffNGq1uH++j+QPEIT8Ya95a8+7MRPhMW5VBQQJgiZS7Qe9GaXgo5zBn1GL7qeBNyMfW9Ll5VCHxAQ=="/>
+            <enclosure url="https://github.com/ripperhe/UpdateDemo/releases/download/1.0.0/UpdateDemo1.0.0.zip" sparkle:version="1.0.0" sparkle:shortVersionString="1.0.0" length="1774209" type="application/octet-stream" sparkle:edSignature="6+YzD8nE+/kd8j0POQbZo8svHG3TRxtpDEc/skH3T4zqnzN2sm086X9/ONo20v7Ozqn1FokUrdM5s6R5hGTyDw=="/>
         </item>
     </channel>
 </rss>
